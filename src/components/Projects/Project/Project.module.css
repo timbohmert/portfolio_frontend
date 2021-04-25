@@ -1,0 +1,8 @@
+.Project {
+  align-items: flex-start;
+  display: flex;
+  min-height: 250px;
+  min-width: 300px;
+  flex-direction: column;
+  margin: 50px 50px;
+}

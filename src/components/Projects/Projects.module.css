@@ -1,0 +1,9 @@
+.Projects {
+  display: flex;
+  max-width: 1200px;
+  height: 100%;
+  align-items: flex-end;
+  justify-content: center;
+  flex-wrap: wrap;
+  margin: auto;
+}
